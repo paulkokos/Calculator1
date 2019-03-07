@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculator - 3774 - (AEM)</string>
+    <string name="ButtonOne">1</string>
+    <string name="ButtonTwo">2</string>
+    <string name="ButtonThree">3</string>
+    <string name="ButtonFour">4</string>
+    <string name="ButtonFive">5</string>
+    <string name="ButtonSix">6</string>
+    <string name="ButtonSeven">7</string>
+    <string name="ButtonEight">8</string>
+    <string name="ButtonNine">9</string>
+    <string name="ButtonZero">0</string>
+    <string name="ButtonAddition">+</string>
+    <string name="ButtonSubtraction">-</string>
+    <string name="ButtonMultiply">*</string>
+    <string name="ButtonDivision">/</string>
+    <string name="ButtonEquals">=</string>
+    <string name="ButtonClear">clear</string>
+    <string name="textviewResult">TextView</string>
+    <string name="textviewFractions">textviewFractions</string>
+    <string name="buttonFloat">.</string>
+</resources>
